@@ -1,7 +1,3 @@
-Here is the properly formatted README.md file:
-
----
-
 # Overview
 
 This repository contains implementations for training and evaluating LR, SVM on the MNIST (handwritten digits) and PCA+FNN, CNNs on CIFAR-10 (object classification) datasets. The code includes preprocessing, training, and evaluation scripts.
